@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+svg{
+    width: 70%;
+    height: 100vh;
+}
+
+path{
+    stroke-dasharray: 6533.498046875px;
+    stroke-dashoffset: 6533.498046875px;
+    animation: lineAnimation 7s ease forwards;
+}
+
+#preloader{
+    z-index: 99999;
+    overflow: hidden;
+    background-color: aqua;
+}
+
+#preloader-logo{
+    display: grid;
+    place-items: center;
+
+}
+
+@keyframes lineAnimation {
+    to {
+        stroke-dashoffset: 0px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+

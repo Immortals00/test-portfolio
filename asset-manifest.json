@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.040430b7.css",
+    "main.js": "/static/js/main.f9a1e38d.js",
+    "static/media/ww3.png": "/static/media/ww3.25ea1e8c00df0c398ae0.png",
+    "static/media/Ankur.jpg": "/static/media/Ankur.1fed8f0dca992b716170.jpg",
+    "static/media/Ankur.png": "/static/media/Ankur.9bdb62ad744cbf812c9c.png",
+    "static/media/5.jpg": "/static/media/5.7f0b5d9cae7eca5662ac.jpg",
+    "static/media/Resume - Ankur Sarkar.pdf": "/static/media/Resume - Ankur Sarkar.5cac8b2daa4e85e62975.pdf",
+    "static/media/4.jpg": "/static/media/4.6f84a30a3487b73fc675.jpg",
+    "static/media/6.jpg": "/static/media/6.08d964a2d4348636b202.jpg",
+    "static/media/sns.png": "/static/media/sns.fbdc19cecce09b11b723.png",
+    "static/media/sof.jpg": "/static/media/sof.d1d779c235a244146f73.jpg",
+    "static/media/solarSystem.png": "/static/media/solarSystem.59e63636ff924088f441.png",
+    "static/media/codechef.png": "/static/media/codechef.f97258fe866cbf24e855.png",
+    "static/media/sparkar.png": "/static/media/sparkar.c9470e4472c743ef90f2.png",
+    "index.html": "/index.html",
+    "main.040430b7.css.map": "/static/css/main.040430b7.css.map",
+    "main.f9a1e38d.js.map": "/static/js/main.f9a1e38d.js.map"
+  },
+  "entrypoints": ["static/css/main.040430b7.css", "static/js/main.f9a1e38d.js"]
+}
